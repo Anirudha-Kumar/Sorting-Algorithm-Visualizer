@@ -1,0 +1,31 @@
+.container {
+    position: absolute; 
+    left: 200px; 
+}
+.bar {
+    width: 8px;
+    background-color: blue; 
+    display: inline-block; 
+    margin: 0 1px; 
+}
+.btn {
+    padding: 10px; 
+    font: montserrat; 
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+
+.Header { 
+    position: absolute;
+    top: 0px; 
+    right: 750; 
+}
+h1 {
+    font-size: 400%;
+    font-family: "Haettenschweiler";
+}
